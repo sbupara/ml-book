@@ -1,4 +1,4 @@
-# python-ml
+# A Practical Guide To Using Machine Learning in Marketing
 In today's business landscape, the importance of data-driven decision-making has become increasingly apparent. As such, machine learning techniques have emerged as valuable tools in the realm of marketing analytics. Machine learning algorithms can help organizations uncover hidden patterns and insights within their data, leading to more effective marketing strategies and increased profitability.
 
 However, the world of machine learning can seem daunting and complex to those without a technical background. This book aims to provide a practical guide to machine learning for marketing professionals, leveraging Jupyter Notebook and Python to take publicly available data and demonstrate how to apply machine learning techniques in practice.
