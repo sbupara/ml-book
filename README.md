@@ -31,24 +31,24 @@ In summary, transforming data into a tidy format is an essential prerequisite fo
 
 ## Simplicity and Approach is Key
 
-As a student of statistics and business analytics, I was taught a rigorous methodology for solving business problems using data-driven insights. However, this methodology can seem daunting and complex to those without a technical background. In this chapter, we will explain the statistical methodology in simple terms, using a four-step process that anyone can understand.
+As a student of statistics, programming, and business analytics, I was taught a rigorous methodology for solving business problems using data-driven insights. However, this methodology can seem daunting and complex to those without a technical background. In this chapter, we will explain the statistical methodology in simple terms, using a four-step process that anyone can understand.
 
-Step 1: Purpose and Motivation
+###Step 1: Purpose and Motivation
 
 The first step in the statistical methodology is to clearly define the problem you are trying to solve and the motivation behind it. For example, you may want to increase sales for a particular product or improve customer satisfaction ratings. It is important to define the problem in specific, measurable terms so that you can track progress and evaluate the effectiveness of any solutions.
 
-Step 2: Data
+###Step 2: Data
 
 The second step in the statistical methodology is to gather and analyze the relevant data. This may involve collecting data from a variety of sources, such as customer surveys, sales reports, or website analytics. It is important to ensure that the data is accurate, complete, and relevant to the problem at hand.
 
-Step 3: Procedures
+###Step 3: Procedures
 
-The third step in the statistical methodology is to apply statistical procedures to the data in order to uncover insights and develop solutions. This may involve techniques such as hypothesis testing, regression analysis, or clustering. It is important to choose the right statistical techniques based on the specific problem and the nature of the data.
+The third step in the statistical methodology is to apply statistical procedures to the data in order to uncover insights and develop solutions. This may involve techniques such as hypothesis testing, regression analysis, or clustering. It is important to choose the right programming techniques based on the specific problem and the nature of the data.
 
-Step 4: Interpretation
+###Step 4: Interpretation
 
-The final step in the statistical methodology is to interpret the results of the analysis and develop actionable insights. This may involve creating visualizations of the data, summarizing key findings, and identifying patterns and relationships in the data. It is important to communicate the results clearly and concisely to stakeholders, and to develop practical solutions that can be implemented in the real world.
+The final step in the analytical methodology I espouse is to interpret the results of the analysis and develop actionable insights. This may involve creating visualizations of the data, summarizing key findings, and identifying patterns and relationships in the data. It is important to communicate the results clearly and concisely to stakeholders, and to develop practical solutions that can be implemented in the real world.
 
-Conclusion
+###Conclusion
 
 By following this four-step methodology, anyone can use these techniques to solve business problems and drive meaningful results. By clearly defining the problem, gathering relevant data, applying statistical procedures, and interpreting the results, you can develop actionable insights that lead to more effective business strategies.
