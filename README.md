@@ -31,7 +31,7 @@ In summary, transforming data into a tidy format is an essential prerequisite fo
 
 ## Simplicity and Approach is Key
 
-As a student of statistics, I was taught a rigorous methodology for solving business problems using data-driven insights. However, this methodology can seem daunting and complex to those without a technical background. In this chapter, we will explain the statistical methodology in simple terms, using a four-step process that anyone can understand.
+As a student of statistics and business analytics, I was taught a rigorous methodology for solving business problems using data-driven insights. However, this methodology can seem daunting and complex to those without a technical background. In this chapter, we will explain the statistical methodology in simple terms, using a four-step process that anyone can understand.
 
 Step 1: Purpose and Motivation
 
