@@ -12,14 +12,12 @@ The book will also provide step-by-step instructions on how to implement each te
 Overall, this book will provide readers with the knowledge and skills needed to leverage machine learning techniques for marketing analytics. Whether you are a marketer, business owner, or data analyst, this book will provide practical insights and actionable guidance to help you take advantage of the power of machine learning in your marketing strategy.
 
 
-## Tidy Data Requirements
+## Tidy Data as a Concept and Prerequisite  
 When it comes to working with data, one of the biggest challenges faced by marketers and data analysts is dealing with data sets that are inconsistently formatted and messy. These data sets can contain missing values, inconsistent column names, and other inconsistencies that can make it difficult to extract meaningful insights using machine learning algorithms.
 
 To overcome these challenges, it is essential to transform these inconsistently formatted data sets programmatically into a standard, tidy format that can be easily analyzed using machine learning techniques. This process is commonly referred to as data wrangling or data munging.
 
 The benefits of transforming data into a tidy format are numerous. First and foremost, tidy data makes it easier to visualize and explore the data, enabling analysts to quickly identify patterns and relationships that can inform marketing strategies. Tidy data also enables more effective machine learning modeling by reducing errors and simplifying the data preparation process.
-
-The Theory Behind Tidy Data
 
 Tidy data is a concept introduced by statistician Hadley Wickham in his 2014 paper "Tidy Data." In the paper, Wickham defines tidy data as follows:
 
