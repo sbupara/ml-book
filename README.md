@@ -52,3 +52,11 @@ The final step in the analytical methodology I espouse is to interpret the resul
 Conclusion
 
 By following this four-step methodology, anyone can use these techniques to solve business problems and drive meaningful results. By clearly defining the problem, gathering relevant data, applying statistical procedures, and interpreting the results, you can develop actionable insights that lead to more effective business strategies.
+
+##A Note About the Intended Audience
+
+This book is intended for those who have a solid foundation in Python and Jupyter notebook, and some knowledge of statistics but are unsure how to apply these concepts to business and marketing. If you are looking for recipes to adapt to your specific business needs or are simply curious about how these techniques can be used, then this book is for you.
+
+It's important to note that this book will not provide lengthy descriptions of each library or the math involved in the techniques. Instead, it is designed to be a set of practical examples and thought processes to guide you through the application of these concepts in a business context. For the hardcore nerds out there, one can find many rabbit holes to fall into with respect to the data science, individual python libraries, and statistics behind the following recipes. The aim is to let Python, as well as the various libraries we will employ, do most of the heavy lifting. However, there will be active narration of the key aspects at each step of our process that are relevant each section. 
+
+Whether you're a business owner, marketing manager, or analyst, this book will provide you with the necessary tools to enhance your data-driven decision-making skills. Additionally, if you are someone who is interested in data science and wants to see how these techniques can be applied in a business setting, this book will be a valuable resource for you.
