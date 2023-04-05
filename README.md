@@ -53,7 +53,8 @@ Conclusion
 
 By following this four-step methodology, anyone can use these techniques to solve business problems and drive meaningful results. By clearly defining the problem, gathering relevant data, applying statistical procedures, and interpreting the results, you can develop actionable insights that lead to more effective business strategies.
 
-## A Note About the Intended Audience
+
+### A Note About the Intended Audience
 
 This book is intended for those who have a solid foundation in Python and Jupyter notebook, and some knowledge of statistics but are unsure how to apply these concepts to business and marketing. If you are looking for recipes to adapt to your specific business needs or are simply curious about how these techniques can be used, then this book is for you.
 
